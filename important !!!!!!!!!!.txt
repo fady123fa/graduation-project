@@ -1,0 +1,27 @@
+how i get amazon product advertisting?
+
+To access Amazon's Product Advertising API, you'll need to sign up for an Amazon Associates account and then apply for access to the Product Advertising API. Here's a high-level overview of the steps involved:
+
+1. Sign up for an Amazon Associates account:
+   - Visit the Amazon Associates website (https://affiliate-program.amazon.com/).
+   - Click on the "Join Now for Free" button.
+   - Follow the instructions to create your account.
+
+2. Create an API key:
+   - After signing up and logging into your Amazon Associates account, go to the Amazon Associates homepage.
+   - Click on the "Tools" tab in the top menu.
+   - Under "Product Advertising API," click on "Manage Your Credentials."
+   - Follow the instructions to create your API key.
+
+3. Apply for access to the Product Advertising API:
+   - Return to the "Tools" tab in your Amazon Associates account.
+   - Under "Product Advertising API," click on "Apply for Access."
+   - Fill out the application form, providing the necessary details about your app and usage intentions.
+
+4. Wait for API access approval:
+   - Amazon will review your application and grant access if it meets their criteria.
+   - Approval times may vary, so be patient and check your email for updates.
+
+Once you have been granted access to the Product Advertising API, you will receive the necessary credentials, including an Access Key ID and a Secret Access Key. You can then use these credentials to authenticate your API requests.
+
+Note: The specific steps and requirements for accessing the Amazon API may change over time, so it's recommended to refer to Amazon's official documentation for the most up-to-date information.
